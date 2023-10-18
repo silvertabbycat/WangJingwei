@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 关于
+title: 關於
 permalink: /about/
 ---
 
-君似梅花冷不禁
+鳳凰臺棲小鳥
