@@ -2,7 +2,7 @@
 layout: post
 title: 凋零恨
 date: 2023
-Author: 来自銀灰條紋貓
+Author: 銀灰條紋貓
 categories: 
 tags: [國府同人]
 comments: true
