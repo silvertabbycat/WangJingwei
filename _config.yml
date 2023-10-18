@@ -7,16 +7,16 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: LOFFER
-description: 一个可以fork的博客
+name: 雙照樓頭月色新
+description: 
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+url: silvertabby-WangJingwei 
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: 
 
 
 #
@@ -24,7 +24,7 @@ baseurl: /LOFFER
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://s2.loli.net/2023/10/18/VaemGsyjutHbLlR.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
@@ -32,13 +32,13 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 
 # 菜单中的按钮
 navigation:
-  - name: 首页
+  - name: 首頁
     url: /
-  - name: 关于
+  - name: 關於
     url: /about
-  - name: 归档
+  - name: 歸檔
     url: /archive
-  - name: 标签
+  - name: 標籤
     url: /tags
 
 # 每页的文章数
@@ -66,14 +66,14 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: Copyright (c) 2023 来自銀灰條紋貓
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: loffer #shortname
+disqus: silvertabby #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
