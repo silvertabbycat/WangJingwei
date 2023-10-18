@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown语法简介
+title: c
 date: 2013-07-16
 Author: Shengbin 
 tags: [sample, markdown]
