@@ -10,9 +10,9 @@ permalink: /about/
 
 友鏈
 
-[ハナガタミ]([http://xxxxxxxxxxxxx/](https://kanransya.github.io/nami-jetcoaster/about/)https://kanransya.github.io/nami-jetcoaster/about/)
+[ハナガタミ]((https://kanransya.github.io/nami-jetcoaster/about/)https://kanransya.github.io/nami-jetcoaster/about/)
 
 
 * * *
 
-鳳凰臺棲小鳥
+便相逢勿下新亭淚
