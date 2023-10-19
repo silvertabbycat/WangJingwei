@@ -10,7 +10,7 @@ permalink: /about/
 
 友鏈
 
-[ハナガタミ]((https://kanransya.github.io/nami-jetcoaster/about/)https://kanransya.github.io/nami-jetcoaster/about/)
+[ハナガタミ](https://kanransya.github.io/nami-jetcoaster/about/)
 
 
 * * *
