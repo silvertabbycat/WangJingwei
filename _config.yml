@@ -7,7 +7,7 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: 雙照樓頭月色新
+name: 雙照樓
 description: 啣石成癡絕
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
@@ -24,7 +24,7 @@ baseurl:
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://s2.loli.net/2023/10/18/brO7CPY9lXcnDV5.png
+avatar: https://s2.loli.net/2023/10/18/VaemGsyjutHbLlR.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://s2.loli.net/2023/10/19/mKNEUYskhlrZ9Tc.jpg
