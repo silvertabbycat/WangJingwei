@@ -50,7 +50,7 @@ footer-links:
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: #youremailaddress@mail.com
+  email: #klcsycc@gmail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: FromEndWorld/loffer #https://github.com/<>
@@ -71,7 +71,7 @@ footer-text: Copyright (c) 2023 来自銀灰條紋貓
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: silvertabby #shortname
+disqus:#shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
