@@ -71,7 +71,7 @@ footer-text: Copyright (c) 2023 来自銀灰條紋貓
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: #WangJingwei.disqus.com
+disqus: 
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
