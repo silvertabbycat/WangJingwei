@@ -37,7 +37,7 @@ tags: [資料,國史館汪兆銘史料,影相]
 
 附《青年良友》配圖:
 
-![06](https://s2.loli.net/2023/11/01/DZtIx5sY8azTP9Q.jpg)
+![06](https://s2.loli.net/2023/11/01/IlaUSZuQO5YdCib.jpg)
 
 
 
