@@ -26,6 +26,7 @@ tags: [資料,國史館汪兆銘史料,影相]
 ![03](https://s2.loli.net/2023/11/01/4zilPa9As1DUFOk.jpg)
 
 
+
 2.國史館題名摘要：**汪政府主席汪兆銘到木瀆視察清鄉工作**，並無具體日期的說明
 
 ![04](https://s2.loli.net/2023/11/01/LNlBJXnsmGrxQP5.jpg)
