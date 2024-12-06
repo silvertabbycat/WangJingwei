@@ -15,7 +15,7 @@ permalink: /about/
 
 **內容**
 
-博文大多是雙照樓主相關的資料筆記，所有資料筆記都是博主自行查找、整理，僅限觀看交流。
+博文大多是雙照樓主相關的資料整理筆記，僅限觀看交流。
 
 報紙刊物部分所使用的數據庫包括但不限於全國報刊索引，水印見圖。
 
@@ -24,9 +24,6 @@ permalink: /about/
 以上，謝謝。
 
 
-* * *
-
-[AO3](https://archiveofourown.org/users/xxfive/pseuds/silvertabby)
 
 * * *
 
